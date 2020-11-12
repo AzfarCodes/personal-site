@@ -2,40 +2,39 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
-  color: #40514E;
+  color: #40514e;
 }
 h1 {
   margin: 0;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
   margin-top: 50px auto 0px auto;
-  color: #66BFBF;
+  color: #66bfbf;
 }
 h2 {
   font-family: "Montserrat", sans-serif;
-  color: #66BFBF;
+  color: #66bfbf;
   font-weight: bolder;
   font-size: 40px;
 }
 h3 {
   font-family: "Montserrat", sans-serif;
-  color: #11999E;
+  color: #11999e;
 }
-a{
-  color: #11999E;
-    text-decoration: none!important;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-    margin: 10px 30px;
-    
+a {
+  color: #11999e;
+  text-decoration: none !important;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  margin: 10px 30px;
 }
-a:hover{
-  color: #EAF6F6;
+a:hover {
+  color: #eaf6f6;
 }
-p{
+p {
   line-height: 2;
 }
-hr{
+hr {
   border: dotted #d9ffff 6px;
   border-bottom: none;
   width: 4%;
@@ -48,7 +47,7 @@ hr{
 .web {
   text-decoration: underline;
 }
-.intro{
+.intro {
   width: 30%;
   margin: auto;
 }
@@ -62,41 +61,40 @@ hr{
   top: 300px;
   left: 200px;
 }
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 3;
 }
-.webdeveloper{
+.webdeveloper {
   float: left;
   padding-right: 30px;
 }
-.leadership{
+.leadership {
   float: right;
   padding-left: 30px;
 }
-.time-management{
+.time-management {
   float: left;
   padding-right: 30px;
   width: 150px;
   height: 150px;
 }
-.memoji{
+.memoji {
   width: 300px;
   height: 300px;
 }
-.profession{
+.profession {
   font-size: 25px;
 }
-.bottom-container{
-  background-color: #66BFBF;
-  text-decoration: #11999E;
+.bottom-container {
+  background-color: #66bfbf;
+  text-decoration: #11999e;
   font-family: "Montserrat", sans-serif;
   padding: 50px 0 20px;
- 
 }
-.contact-me{
+.contact-me {
   width: 40%;
   margin: 40px auto 60px;
 }
@@ -126,7 +124,7 @@ hr{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-.copyrights{
+.copyrights {
   color: #eaf6f6;
   font-size: 0.85rem;
   padding: 20px 0;
