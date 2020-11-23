@@ -57,12 +57,17 @@ hr {
 .top-cloud {
   position: absolute;
   right: 6.25rem;
-  top: 6.25rem;
+  top: 1rem;
+}
+.middle-cloud {
+  position: absolute;
+  top: 12rem;
+  left: 7rem;
 }
 .bottom-cloud {
   position: absolute;
-  top: 18.75rem;
-  left: 12.5rem;
+  top: 20rem;
+  right: 5rem;
 }
 .skill-row {
   width: 50%;
