@@ -26,7 +26,7 @@ a {
   text-decoration: none !important;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  margin: 0.625rem 1.875rem;
+  margin: 0.625rem 1.25rem;
 }
 a:hover {
   color: #eaf6f6;
@@ -135,15 +135,17 @@ hr {
 .copyrights {
   color: #eaf6f6;
   font-size: 0.85rem;
+  padding-top: 10px;
+  text-align: center;
 }
 .mountain {
   width: 50rem;
   height: 25rem;
   position: relative;
 }
-.hello{
+.hello {
   margin-top: 0;
 }
-.skill-heading{
+.skill-heading {
   margin-top: 0;
 }
