@@ -71,7 +71,7 @@ hr {
 }
 .skill-row {
   width: 50%;
-  margin: 6.25rem auto 6.25rem auto;
+  margin: 3.125rem auto 6.25rem auto;
   text-align: left;
   line-height: 3;
 }
@@ -140,4 +140,10 @@ hr {
   width: 50rem;
   height: 25rem;
   position: relative;
+}
+.hello{
+  margin-top: 0;
+}
+.skill-heading{
+  margin-top: 0;
 }
