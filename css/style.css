@@ -89,9 +89,11 @@ hr {
   width: 9.375rem;
   height: 9.375rem;
 }
-.memoji {
-  width: 18.75rem;
-  height: 18.75rem;
+.profile-pic {
+  width: 175px;
+  height: 175px;
+  border-radius: 100%;
+  margin: 3.125rem 0;
 }
 .profession {
   font-size: 1.5625rem;
