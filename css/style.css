@@ -90,9 +90,8 @@ hr {
   height: 9.375rem;
 }
 .profile-pic {
-  width: 175px;
-  height: 175px;
-  border-radius: 100%;
+  width: 10.938rem;
+  height: 10.938rem;
   margin: 3.125rem 0;
 }
 .profession {
@@ -137,7 +136,7 @@ hr {
 .copyrights {
   color: #eaf6f6;
   font-size: 0.85rem;
-  padding-top: 10px;
+  padding-top: 0.625rem;
   text-align: center;
 }
 .mountain {
@@ -151,48 +150,48 @@ hr {
 .skill-heading {
   margin-top: 0;
 }
-::-webkit-scrollbar-button{
+::-webkit-scrollbar-button {
   color: red;
   background-color: royalblue;
-  }
-  ::selection {
+}
+::selection {
   background-color: transparent;
   /* color: rgba(33,75,97,255); */
   color: black;
-  }
-  ::-webkit-scrollbar {
-      width: 10px;
-      /* background-color: rgb(211, 211, 211); */
-      background-color: #9e9e9e;
-  }
-  ::-webkit-scrollbar-thumb {
-      /* -webkit-box-shadow: inset 0 0 6px rgb(0 0 0 / 30%); */
-      background-color: #11cdd4;
-      border-radius: 10px;
-  }
-  /* Buttons */
-  ::-webkit-scrollbar-button:single-button {
-      background-color: #bbbbbb;
-      display: block;
-      border-style: solid;
-      height: 13px;
-      width: 16px;
-  }
-  /* Up */
-  ::-webkit-scrollbar-button:single-button:vertical:decrement {
-      border-width: 0 8px 8px 8px;
-      border-color: transparent transparent #555555 transparent;
-  }
-  
-  ::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
-      border-color: transparent transparent #808080 transparent;
-  }
-  /* Down */
-  ::-webkit-scrollbar-button:single-button:vertical:increment {
-      border-width: 8px 8px 0 8px;
-      border-color: #555555 transparent transparent transparent;
-  }
-  
-  ::-webkit-scrollbar-button:vertical:single-button:increment:hover {
-      border-color: #808080 transparent transparent transparent;
-  }
+}
+::-webkit-scrollbar {
+  width: 0.625rem;
+  /* background-color: rgb(211, 211, 211); */
+  background-color: #9e9e9e;
+}
+::-webkit-scrollbar-thumb {
+  /* -webkit-box-shadow: inset 0 0 6px rgb(0 0 0 / 30%); */
+  background-color: #11cdd4;
+  border-radius: 0.625rem;
+}
+/* Buttons */
+::-webkit-scrollbar-button:single-button {
+  background-color: #bbbbbb;
+  display: block;
+  border-style: solid;
+  height: 0.813rem;
+  width: 1rem;
+}
+/* Up */
+::-webkit-scrollbar-button:single-button:vertical:decrement {
+  border-width: 0 0.5rem 0.5rem 0.5rem;
+  border-color: transparent transparent #555555 transparent;
+}
+
+::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
+  border-color: transparent transparent #808080 transparent;
+}
+/* Down */
+::-webkit-scrollbar-button:single-button:vertical:increment {
+  border-width: 0.5rem 0.5rem 0 0.5rem;
+  border-color: #555555 transparent transparent transparent;
+}
+
+::-webkit-scrollbar-button:vertical:single-button:increment:hover {
+  border-color: #808080 transparent transparent transparent;
+}
